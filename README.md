@@ -152,16 +152,31 @@ Use this test payload in Lambda:
 
 ---
 
-## 🏆 Resume Description
+### 🏆 Screenshots:
+## CloudWatch Dashboard
+<img width="1919" height="911" alt="Screenshot 2026-04-19 010812" src="https://github.com/user-attachments/assets/b0756070-50cc-426c-a5d0-cdf562245a2d" />
+<img width="1916" height="845" alt="Screenshot 2026-04-19 010634" src="https://github.com/user-attachments/assets/6b91220b-4b34-48e6-8542-66049e57cc80" />
+<img width="1913" height="838" alt="Screenshot 2026-04-19 011000" src="https://github.com/user-attachments/assets/40e576c5-576b-40e8-8b41-be1737b6ecaa" />
 
-Built a serverless AWS log monitoring system using Lambda, CloudWatch, and SNS to detect errors, trigger alerts, and visualize metrics in real time.
+## Lambda
+<img width="1914" height="854" alt="Screenshot 2026-04-19 011205" src="https://github.com/user-attachments/assets/1621fa54-fd03-4b19-8c5c-89d92eb7252e" />
+<img width="1919" height="845" alt="Screenshot 2026-04-19 011312" src="https://github.com/user-attachments/assets/f0350742-52bf-4557-a39f-53b6c684011f" />
+<img width="1917" height="848" alt="Screenshot 2026-04-19 011413" src="https://github.com/user-attachments/assets/c1235381-3b30-440e-ab6c-47b08b9db102" />
 
----
+## SNS-Email
+<img width="1919" height="901" alt="Screenshot 2026-04-19 011642" src="https://github.com/user-attachments/assets/7c421e57-0a6b-4753-8c45-82605f6e646c" />
+
+
+
+
+
+
+
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: https://github.com/your-username
+Aditya Dilpake
+GitHub: https://github.com/Adilpake22/
 
 ---
 
